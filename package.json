@@ -1,0 +1,15 @@
+{
+  "name": "tilemantle-native",
+  "version": "1.0.0",
+  "description": "Native tilemantle EXE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Crockett",
+  "license": "ISC",
+  "devDependencies": {
+    "pkg": "^4.3.4",
+    "tilemantle": "^1.2.0"
+  }
+}
